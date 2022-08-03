@@ -1,0 +1,15 @@
+https://youtu.be/NU-HfZY3ATQ
+
+Create a very simple json file
+- npm init
+
+Server:
+npm i express nodemon socket.io cors
+
+
+-----
+socket.on
+and
+socket.emit
+
+Between server and client
